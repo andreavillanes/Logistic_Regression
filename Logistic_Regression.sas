@@ -1,4 +1,4 @@
-libname class 'C:\Users\avillan\Documents\Varios\Personal\Teaching Assistant Position\Logistic Regression Class\Logistic Regression Data Sets';
+libname class 'C:\Documents';
 
 title 'Modeling Dengue Deaths';
 proc logistic data=class.dengue plots(only)=(oddsratio);
